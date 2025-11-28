@@ -1,3 +1,6 @@
+# Custom
+.venv
+
 # Logs
 logs
 *.log

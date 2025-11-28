@@ -1,2 +1,2 @@
-Purpose
+Purpose:
     Create MelPharma drugstore application from its MVP with jQuery-based frontend to React-based frontend. Likewise, improvements on other aspects are to be expected so as to follow step-by-step process on Software Development Life Cycle and Full Stack Software Development (Auth, CRUD & Deployment). The application will also incorporate software development and engineering principles (e.g. Modularity, SOLID & Maintainability)
